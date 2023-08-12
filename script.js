@@ -10,7 +10,7 @@ function decimalToBinary(num) {
     num = num/ 2;
   }
 
-  return binary;
+  return a;
   
 }
 
