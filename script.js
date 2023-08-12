@@ -6,7 +6,7 @@ function decimalToBinary(num) {
 
   let a= '';
   while (num > 0) {
-    a = (num % 2) + binary;
+    a = (num % 2) + a;
     num = num/ 2;
   }
 
